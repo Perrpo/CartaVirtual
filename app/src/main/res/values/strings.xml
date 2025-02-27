@@ -1,0 +1,194 @@
+<resources>
+    <string name="app_name">Carta_Virtual</string>
+    <string name="title_activity_sedes">activity_sedes</string>
+
+    <string-array name="listaentradas">
+        <item>
+        *Arepas de Choclo (2 unidades)*
+        Deliciosas arepas dulces hechas con maíz tierno, ideales para comenzar tu comida.
+        *Valor:* $6.000
+        </item>
+
+        <item>
+        *Empanadas Vallunas (4 unidades)*
+        Empanadas de harina de maíz rellenas de carne, papa y arvejas, típicas del Valle del Cauca.
+        *Valor:* $9.500
+        </item>
+
+        <item>
+        *Aborrajados (3 unidades)*
+        Plátano maduro relleno de queso, empanizado y frito, típico de la región Caribe.
+        *Valor:* $8.000
+        </item>
+
+        <item>
+        *Chunchullo Frito*
+        Chunchullo de cerdo frito crujiente, acompañado de limón y ají, típico de los Llanos Orientales.
+        *Valor:* $12.000
+        </item>
+
+        <item>
+        *Mute Santandereano*
+        Sopa espesa a base de maíz, carne de cerdo, garbanzos y verduras, típica de Santander.
+        *Valor:* $10.000
+        </item>
+
+        <item>
+        *Sancocho de Gallina*
+        Sopa tradicional colombiana con gallina, yuca, plátano y mazorca, típica de la región Andina.
+        *Valor:* $15.000
+        </item>
+    </string-array>
+
+    <string-array name="listaplatosfuertes">
+        <item>
+        *Bandeja Paisa*
+        Componentes: Frijoles, arroz, chicharrón, carne molida, chorizo, huevo frito, aguacate, arepa y plátano maduro.
+        *Valor:* $25.000
+        </item>
+
+        <item>
+        *Lechona Tolimense*
+        Cerdo relleno de arroz, garbanzos y especias, horneado lentamente, típico del Tolima.
+        *Valor:* $28.000
+        </item>
+
+        <item>
+        *Mojarra Frita*
+        Mojarra frita entera, acompañada de patacón, arroz con coco y ensalada, típica de la Costa Caribe.
+        *Valor:* $30.000
+        </item>
+
+        <item>
+        *Tamal Tolimense*
+        Tamal relleno de carne de cerdo, pollo, arroz, garbanzos y huevo cocido, envuelto en hoja de plátano.
+        *Valor:* $18.000
+        </item>
+
+        <item>
+        *Ajiaco Santafereño*
+        Sopa espesa de pollo con tres tipos de papa, mazorca, guascas y crema de leche, típica de Bogotá.
+        *Valor:* $22.000
+        </item>
+
+        <item>
+        *Cazuela de Mariscos*
+        Mezcla de mariscos cocidos en salsa de tomate y coco, acompañada de arroz con coco y patacón, típica de la Costa Pacífica.
+        *Valor:* $35.000
+        </item>
+    </string-array>
+
+    <string-array name="listabebidas">
+        <item>
+        *Chicha de Maíz*
+        Bebida tradicional hecha de maíz fermentado, típica de la región Andina.
+        *Valor:* $5.000
+        </item>
+
+        <item>
+        *Lulada*
+        Bebida refrescante hecha con lulo, agua y azúcar, típica del Valle del Cauca.
+        *Valor:* $7.000
+        </item>
+
+        <item>
+        *Jugo de Guanábana*
+        Jugo natural de guanábana, típico de la región Caribe.
+        *Valor:* $8.000
+        </item>
+
+        <item>
+        *Aguardiente Antioqueño*
+        Licor anisado típico de Antioquia, ideal para acompañar fiestas y reuniones.
+        *Valor:* $15.000
+        </item>
+
+        <item>
+        *Café de Olla*
+        Café tradicional colombiano preparado con panela y canela, servido en olla de barro.
+        *Valor:* $4.500
+        </item>
+
+        <item>
+        *Refajo*
+        Mezcla de cerveza y gaseosa colombiana, refrescante y ligera.
+        *Valor:* $6.000
+        </item>
+    </string-array>
+
+    <string-array name="listapostres">
+        <item>
+        *Brevas con Arequipe*
+        Brevas cocidas rellenas de arequipe, típicas de la región Andina.
+        *Valor:* $10.000
+        </item>
+
+        <item>
+        *Cocadas*
+        Dulce de coco rallado y panela, típico de la Costa Caribe.
+        *Valor:* $5.000
+        </item>
+
+        <item>
+        *Manjar Blanco*
+        Postre cremoso hecho con leche, azúcar y canela, típico de la región Andina.
+        *Valor:* $8.000
+        </item>
+
+        <item>
+        *Bocadillo Veleño*
+        Dulce de guayaba con queso, típico de Santander.
+        *Valor:* $6.000
+        </item>
+
+        <item>
+        *Torta de Natas*
+        Torta tradicional hecha con natas de leche, típica de la región Andina.
+        *Valor:* $12.000
+        </item>
+
+        <item>
+        *Arroz con Leche*
+        Postre cremoso de arroz, leche y canela, típico de toda Colombia.
+        *Valor:* $7.000
+        </item>
+    </string-array>
+
+    <string-array name="listalicores">
+        <item>
+        *Ron Medellín Añejo*
+        Ron premium añejado, con notas suaves y aromáticas, típico de Antioquia.
+        *Valor:* $50.000
+        </item>
+
+        <item>
+        *Guaro Antioqueño*
+        Aguardiente típico de Antioquia, ideal para acompañar fiestas y reuniones.
+        *Valor:* $20.000
+        </item>
+
+        <item>
+        *Vino de Naranja*
+        Vino artesanal hecho con naranjas, típico de la región Caribe.
+        *Valor:* $25.000
+        </item>
+
+        <item>
+        *Cerveza Artesanal Bogotá*
+        Cerveza artesanal con sabores únicos, típica de Bogotá.
+        *Valor:* $12.000
+        </item>
+
+        <item>
+        *Chicha de Piña*
+        Bebida fermentada hecha con piña, típica de la región Andina.
+        *Valor:* $8.000
+        </item>
+
+        <item>
+        *Canelazo*
+        Bebida caliente hecha con aguardiente, canela y panela, típica de la región Andina.
+        *Valor:* $10.000
+        </item>
+    </string-array>
+</resources>
